@@ -1,4 +1,5 @@
 # Kubecon-India-2024-sponsorship
+![Image](https://github.com/user-attachments/assets/e1e03137-31c6-4322-bee6-d4d8e7f4be57)
 
 * Hello folks 👋
 * We are glad to announce that we are running this programme to sponsorship the KubeCon-India-2024 tickets.
@@ -19,3 +20,4 @@
 
 ## Deadline of the programme:
 * The timeline would be of 7 days from the announcement.
+* 25th November to 2nd December.
