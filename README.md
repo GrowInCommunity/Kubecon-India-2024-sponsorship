@@ -1,9 +1,13 @@
-# GrowInCommunity's Kubecon India 2024 Sponsorship Program
+# GrowInCommunity's KubeCon + CloudNativeCon India 2024 Sponsorship Program
 
 ![Image](https://github.com/user-attachments/assets/e1e03137-31c6-4322-bee6-d4d8e7f4be57)
 
 ## Hello folks 👋
-We are glad to announce that we are sponsoring tickets to KubeCon-India-2024. As part of our commitment to foster and promote Cloud Native and Open Source endeavours, and get more and more students the opportunity to be a part of this ecosystem and meet like-minded folks, we are henceforth announcing the "GrowInCommunity's Kubecon-India-2024-Sponsorship Program 2024".
+We are glad to announce our sponsorship program for KubeCon + CloudNativeCon India 2024!
+
+As part of our unwavering commitment to fostering Cloud Native and Open Source innovation, we aim to empower students and enthusiasts by offering them the opportunity to be a part of this dynamic ecosystem. The "GrowInCommunity KubeCon India 2024 Sponsorship Program" is designed to connect aspiring minds with like-minded professionals, enabling them to network, learn, and grow together by providing them the financial assistance to attend the "KubeCon + CloudNativeCon India 2024" Summit.
+
+The program will consist of a small challenge. The best two submissions will be sponsored tickets to "KubeCon + CloudNativeCon India 2024"!
 
 ---
 
