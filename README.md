@@ -19,7 +19,7 @@ The program will consist of a small challenge. The best two submissions will be 
 4. Share the blog on socials: Twitter/X and LinkedIn with hashtag #growincommunity #kubeconindia2024
 5. We have a dedicated channel on our [Discord Server](https://discord.gg/SXqTuNBm4Z), where you can communicate with the team if you have any doubt or need help.
 6. Share the blog link and tweet link in [#kubecon-india-2024-sponsorship](https://discord.gg/mPpzHMXX) channel on our discord.
-7. Best two submissions will be eligible for the sponsorship.
+7. Best one or two submissions will be eligible for the sponsorship.
 
 ## Who can participate:
 
