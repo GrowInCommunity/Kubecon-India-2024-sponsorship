@@ -31,7 +31,8 @@ The program will consist of a small challenge. The best two submissions will be 
 ## Deadline of the programme:
 
 - The timeline would be of 7 days from the announcement.
-- 25th November to 2nd December.
+- 26th November to 3rd December.
+- Final announcement on 4th December.
 
 ----------
 All the best and happy blogging! 🎯
