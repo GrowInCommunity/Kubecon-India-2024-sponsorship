@@ -16,7 +16,7 @@ The program will consist of a small challenge. The best two submissions will be 
 1. Write a blog post on topic "How GrowInCommunity helped you in rise the carreer in tech?".
 2. After writing the blog, you have to add your own domain (You can purchase one, also Github Education Provides free .tech domains to students).
 3. You can write the blog anywhere (Hashnode, Medium, dev.to, etc.). Just make sure you host it under your own domain.
-4. Share the blog on socials: Twitter/X and LinkedIn with hashtag #growincommunity #kubeconindia2024
+4. Share the blog on socials: Twitter/X and LinkedIn with these 3 hashtags #growincommunity #kubeconindia2024 #cncf
 5. We have a dedicated channel on our [Discord Server](https://discord.gg/SXqTuNBm4Z), where you can communicate with the team if you have any doubt or need help.
 6. Share the blog link and tweet link in [#kubecon-india-2024-sponsorship](https://discord.gg/mPpzHMXX) channel on our discord.
 7. Best one or two submissions will be eligible for the sponsorship.
