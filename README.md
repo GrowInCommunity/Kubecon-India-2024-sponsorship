@@ -13,7 +13,9 @@ The program will consist of a small challenge. The best two submissions will be 
 
 ## How to participate:
 
-1. Write a blog post on topic "How GrowInCommunity helped you in rise the carreer in tech?".
+1. Write a blog post on topic: 
+   1. Importance of Communities. or
+   2. How GrowInCommunity helped you in rise the carreer in tech?.
 2. After writing the blog, you have to add your own domain (You can purchase one, also Github Education Provides free .tech domains to students).
 3. You can write the blog anywhere (Hashnode, Medium, dev.to, etc.). Just make sure you host it under your own domain.
 4. Share the blog on socials: Twitter/X and LinkedIn with these 3 hashtags #growincommunity #kubeconindia2024 #cncf
